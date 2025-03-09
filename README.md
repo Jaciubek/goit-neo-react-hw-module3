@@ -1,1 +1,1 @@
-# GOIT React Homework 3
+# GOIT Neoversity React Homework 3
